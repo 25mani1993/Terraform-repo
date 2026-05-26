@@ -10,3 +10,5 @@ resource "azurerm_resource_group" "example" {
 
 
   cjndnkdkldkl
+
+  tinku
